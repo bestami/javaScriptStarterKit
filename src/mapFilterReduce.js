@@ -41,5 +41,3 @@ function sayiTopla(number) {
 }
 sayiTopla(sayi)
 console.log(sayi)
-
-//23.00 Dersteyiz
